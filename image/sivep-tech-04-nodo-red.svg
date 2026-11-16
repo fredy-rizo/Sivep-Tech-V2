@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="SIVEP Tech — red de nodos en forma de hoja">
+  <rect width="1024" height="1024" fill="#F8F9FA"/>
+  <g fill="none" stroke="#8B1E3F" stroke-width="16" stroke-linejoin="round">
+    <!-- Hexágono -->
+    <polygon points="512,232 754,372 754,652 512,792 270,652 270,372" opacity=".5"/>
+    <!-- Hoja (lente) -->
+    <path d="M 512 300 C 602 400 602 600 512 720 C 422 600 422 400 512 300 Z"/>
+    <!-- Nervadura central y venas -->
+    <path d="M 512 720 L 512 300" stroke-width="14"/>
+    <path d="M 512 470 L 754 372 M 512 470 L 270 372 M 512 610 L 754 652 M 512 610 L 270 652" stroke-width="12"/>
+  </g>
+  <!-- Nodos -->
+  <g fill="#8B1E3F">
+    <circle cx="754" cy="372" r="26"/>
+    <circle cx="754" cy="652" r="26"/>
+    <circle cx="270" cy="372" r="26"/>
+    <circle cx="270" cy="652" r="26"/>
+  </g>
+  <circle cx="512" cy="232" r="30" fill="#5B8C4E"/>
+</svg>

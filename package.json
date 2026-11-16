@@ -1,0 +1,17 @@
+{
+  "name": "sivep-tech",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Base multi-tenant de SIVEP Tech: hoteles, farmacia, veterinaria y tienda de barrio.",
+  "scripts": {
+    "dev": "pnpm --parallel --filter @sivep/backend --filter @sivep/frontend dev",
+    "dev:api": "pnpm --filter @sivep/backend dev",
+    "dev:web": "pnpm --filter @sivep/frontend dev",
+    "build": "pnpm --filter @sivep/frontend build",
+    "start:api": "pnpm --filter @sivep/backend start",
+    "migrate": "pnpm --filter @sivep/backend migrate",
+    "seed": "pnpm --filter @sivep/backend seed",
+    "reset:demo": "pnpm --filter @sivep/backend seed"
+  },
+  "packageManager": "pnpm@12.4.1"
+}

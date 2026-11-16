@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="SIVEP Tech — surco de datos">
+  <rect width="1024" height="1024" fill="#F8F9FA"/>
+  <!-- Barras-surco ascendentes -->
+  <rect x="272" y="620" width="76" height="152" rx="38" fill="#8B1E3F"/>
+  <rect x="384" y="540" width="76" height="232" rx="38" fill="#8B1E3F"/>
+  <rect x="496" y="452" width="76" height="320" rx="38" fill="#8B1E3F"/>
+  <rect x="608" y="356" width="76" height="416" rx="38" fill="#8B1E3F"/>
+  <rect x="720" y="252" width="76" height="520" rx="38" fill="#5B8C4E"/>
+  <!-- Línea de tierra -->
+  <path d="M 236 812 C 400 780 620 780 792 812" fill="none" stroke="#4A4A4A" stroke-width="14" stroke-linecap="round" opacity=".55"/>
+</svg>

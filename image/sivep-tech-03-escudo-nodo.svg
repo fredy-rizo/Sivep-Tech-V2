@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="SIVEP Tech — escudo con S y nodo">
+  <rect width="1024" height="1024" fill="#F8F9FA"/>
+  <!-- Escudo -->
+  <path d="M 512 172 L 788 270 V 520 C 788 700 668 822 512 880 C 356 822 236 700 236 520 V 270 Z" fill="#8B1E3F"/>
+  <!-- S en negativo -->
+  <path d="M 622 402 C 622 360 576 338 514 338 C 446 338 402 370 402 416 C 402 460 440 478 500 492 C 566 508 616 528 616 588 C 616 642 560 676 494 676 C 430 676 388 650 384 606"
+        fill="none" stroke="#F8F9FA" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Nodo hexagonal -->
+  <polygon points="662,652 702,675 702,721 662,744 622,721 622,675" fill="#5B8C4E"/>
+</svg>

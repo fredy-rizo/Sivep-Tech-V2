@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="SIVEP Tech — monograma S con brote, fondo vino">
+  <rect width="1024" height="1024" fill="#8B1E3F"/>
+  <path d="M 660 360 C 660 305 600 275 520 275 C 430 275 370 320 370 385 C 370 445 420 470 500 488 C 590 508 655 535 655 615 C 655 690 585 735 495 735 C 410 735 355 700 350 640"
+        fill="none" stroke="#F8F9FA" stroke-width="82" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 654 358 C 678 300 730 268 792 262 C 790 322 760 374 700 392 C 672 400 650 384 654 358 Z" fill="#74A865"/>
+  <path d="M 668 356 C 706 330 744 312 786 300" fill="none" stroke="#4A7340" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+</svg>
